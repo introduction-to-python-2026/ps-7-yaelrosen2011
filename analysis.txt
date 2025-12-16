@@ -1,1 +1,15 @@
+Dataset: Panda Population and Habitat (based on real conservation estimates)
+
+This analysis examines the relationship between protected habitat area and panda population over time.
+
+The data includes historical population estimates (e.g., ~1114 in the 1980s, ~1596 in 2004, ~1864 in 2014, and ~1900 in 2024)
+and associated habitat areas. According to conservation reports, the giant panda was once critically endangered but has been
+reclassified as vulnerable due to successful conservation measures and habitat protection. The population is still relatively low
+compared to past distributions, and the species remains sensitive to habitat fragmentation and climate change. :contentReference[oaicite:3]{index=3}
+
+Histograms show the distribution of habitat area and population. The scatter plot and correlation plot demonstrate a positive
+relationship between habitat area and population — as protected habitat increases, so does the panda population. This supports
+the conservation principle that preserving large continuous habitats is critical for species recovery.
+
+Conservation efforts remain important to ensure that pandas do not regress back toward more critical risk categories.
 
