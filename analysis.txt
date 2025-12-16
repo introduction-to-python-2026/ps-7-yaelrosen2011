@@ -1,15 +1,40 @@
-Dataset: Panda Population and Habitat (based on real conservation estimates)
+panda Population and Habitat Analysis
+1.Data Overview
 
-This analysis examines the relationship between protected habitat area and panda population over time.
+ * The dataset contains information on the panda population, their habitat area (in km²), threat level, and year, spanning from 1980 to 2024. The key variables are:
 
-The data includes historical population estimates (e.g., ~1114 in the 1980s, ~1596 in 2004, ~1864 in 2014, and ~1900 in 2024)
-and associated habitat areas. According to conservation reports, the giant panda was once critically endangered but has been
-reclassified as vulnerable due to successful conservation measures and habitat protection. The population is still relatively low
-compared to past distributions, and the species remains sensitive to habitat fragmentation and climate change. 
+ * Population: Number of pandas in the wild
 
-Histograms show the distribution of habitat area and population. The scatter plot and correlation plot demonstrate a positive
-relationship between habitat area and population — as protected habitat increases, so does the panda population. This supports
-the conservation principle that preserving large continuous habitats is critical for species recovery.
+ * Habitat_Area_km2: Size of their natural habitat in square kilometers
 
-Conservation efforts remain important to ensure that pandas do not regress back toward more critical risk categories.
+ * Threat_Level: 5 = highest risk of extinction, 1 = lowest risk
 
+ * Year: Observation year
+
+2.Observations from Histograms
+
+ * Population Histogram
+
+ * The population has generally increased over the years, as seen from the frequency of different population ranges.
+
+ * Most data points are between 1100 and 1900 pandas, showing steady growth.
+
+ * Habitat Area Histogram
+
+ * The habitat area has also increased slightly over time.
+
+ * Most of the habitat sizes fall between 20,000 km² and 27,000 km².
+
+3.Scatter Plot Analysis
+
+ * The scatter plot of Habitat Area vs Population shows a clear positive correlation.
+
+ * As the habitat area increases, the panda population also tends to grow.
+
+ * This suggests that larger habitat areas contribute to population recovery, which aligns with conservation strategies.
+
+4.Conclusion
+
+ * There is a positive correlation between habitat size and panda population.
+
+ * Conservation efforts that expand or protect panda habitats appear effective in supporting population growth.
